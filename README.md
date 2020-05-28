@@ -9,7 +9,7 @@ This repo contains a few files you can use in combination with [gremlins.js](htt
 - Open the target website;
 - Open Dev Tools;
 - Go to Sources > Snippets;
-- Add [gremlins.min.js](https://github.com/marmelab/gremlins.js/blob/master/gremlins.min.js) and run it;
+- Add [gremlins.min.js](https://unpkg.com/gremlins.js) and run it;
 - Add `functions.js` and run it;
 - Add any unleash script (eg: `unleash_visible_horde.js`) and run it.
 
